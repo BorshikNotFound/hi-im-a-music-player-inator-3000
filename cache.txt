@@ -1,0 +1,2 @@
+maincolor=120 120 120
+volume=100
